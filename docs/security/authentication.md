@@ -57,6 +57,19 @@
 - [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 - [AuthenticationScheme: "Identity.Application" was not authenticated](https://github.com/IdentityServer/IdentityServer4/issues/1525)
 - [ASP.NET Core - Protect your API with API Keys](https://josef.codes/asp-net-core-protect-your-api-with-api-keys/)
+- [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
+- [Delegation Patterns for OAuth 2.0 using Token Exchange](https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20)
+- [PROTECTING LEGACY APIS WITH AN ASP.NET CORE YARP REVERSE PROXY AND AZURE AD OAUTH](https://damienbod.com/2021/01/11/protecting-legacy-apis-with-an-asp-net-core-yarp-reverse-proxy-and-azure-ad-oauth/)
+- [JWT Authentication with Asymmetric Encryption using certificates in ASP.NET Core](https://dev.to/eduardstefanescu/jwt-authentication-with-asymmetric-encryption-using-certificates-in-asp-net-core-2o7e)
+- [JWT Token Claims in ASP.NET Core](https://dev.to/eduardstefanescu/jwt-token-claims-in-asp-net-core-1kk8)
+- [Cookie authentication in ASP.NET Core 2 without ASP.NET Identity](https://www.meziantou.net/cookie-authentication-in-asp-net-core-2-without-asp-net-identity.htm)
+- [JWT authentication with ASP.NET Core](https://www.meziantou.net/jwt-authentication-with-asp-net-core.htm)
+- [Generate self-signed certificates with the .NET CLI](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/self-signed-certificates-guide)
+- [PEM Loading in .NET Core and .NET 5](https://www.scottbrady91.com/c-sharp/pem-loading-in-dotnet-core-and-dotnet)
+- [Import and Export RSA Key Formats in .NET Core 3](https://vcsjones.dev/key-formats-dotnet-3/)
+- [Creating Elliptic Curve Keys using OpenSSL](https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-openssl)
+- [Creating RSA Keys using OpenSSL](https://www.scottbrady91.com/openssl/creating-rsa-keys-using-openssl)
+- [How to Generate a Self-Signed Certificate and Private Key using OpenSSL](https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL)
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
@@ -76,7 +89,7 @@
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ&t=2s)
 - [Asp Net Core 5 Rest API Authentication with JWT Step by Step](https://www.youtube.com/watch?v=LgpC4tYtc6Y&ab_channel=MohamadLawand)
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
-
+- [Complete Guide to ASP.NET Core Identity - Authentication and Authorization (2022)](https://www.youtube.com/watch?v=sogS0DtejVA)
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
 - [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo) - ASP.NET Core + Angular JWT auth demo; integration tests; login, logout, refresh token, impersonation, authentication, authorization; run on Docker Compose.
@@ -93,10 +106,14 @@
 - [cornflourblue/dotnet-5-jwt-refresh-tokens-api](https://github.com/cornflourblue/dotnet-5-jwt-refresh-tokens-api) - .NET 5.0 API - JWT Authentication with Refresh Tokens
 - [cornflourblue/aspnet-core-3-jwt-authentication-api](https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api) - ASP.NET Core 3.1 JWT Authentication API
 - [joseftw/JOS.ApiKeyAuthentication](https://github.com/joseftw/JOS.ApiKeyAuthentication)
+- [TanvirArjel/JwtAuthenticationInAspNetCore](https://github.com/TanvirArjel/JwtAuthenticationInAspNetCore)
+- [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
+- [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
+- [RockSolidKnowledge/TokenExchange](https://github.com/RockSolidKnowledge/TokenExchange) - Token Exchange (RFC 8693) implementation for IdentityServer
+- [damienbod/AspNetCoreYarp](https://github.com/damienbod/AspNetCoreYarp) - ASP.NET Core & Yarp reverse proxy with Azure AD OIDC, OAuth2
+- [pdevito3/heimguard](https://github.com/pdevito3/heimguard) - A small and simple library built to allow you to easily manage permissions in your .NET projects.
+- [StefanescuEduard/JwtAuthentication](https://github.com/StefanescuEduard/JwtAuthentication)
 
 ## Libraries
 - [fake-authentication-jwtbearer](https://github.com/webmotions/fake-authentication-jwtbearer) - Simple way to fake an authenticated user for integration test with ASP.Net Core framework
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

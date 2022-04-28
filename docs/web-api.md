@@ -19,8 +19,6 @@
 - [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
 - [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
 - [Model Binding - ASP.NET Core Demystified](https://exceptionnotfound.net/asp-net-core-demystified-model-binding-in-mvc/)
-- [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
-- [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
 - [Finally the ASP.NET 5 Web API Blog Series!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
 - [ASP.NET Core in .NET 5 – pass parameters to actions](https://www.michalbialecki.com/2020/05/07/asp-net-5-pass-parameters-to-actions/)
 - [Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding)
@@ -78,6 +76,8 @@
 - [ASP.NET Core Endpoints. Add endpoint-enabled middleware by using IEndpointRouteBuilder extension method](https://nikiforovall.github.io/dotnet/aspnetcore/2021/03/23/endpoint-route-builder-extension-pattern.html)
 - [Open API support for ASP.NET Core Minimal API](https://dotnetthoughts.net/openapi-support-for-aspnetcore-minimal-webapi/)
 - [ASP.NET Core 5 Model Binding to C# 9 Record Types](https://www.davidhayden.me/blog/asp-net-core-5-model-binding-to-csharp-9-record-types)
+- [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
+- [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 - [Beautiful and compact Web APIs revisited – with C# 10 and .NET 6 Preview 7](https://www.strathweb.com/2021/08/beautiful-and-compact-web-apis-revisited-with-c-10-and-net-6-preview-7/)
 - [New .NET 6 APIs driven by the developer community](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
@@ -85,11 +85,16 @@
 - [Efficient file uploads with dotnet](https://josef.codes/efficient-file-uploads-with-dotnet/)
 - [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 - [How to Upload Large Files](https://scatteredcode.net/how-to-upload-large-files/)
+- [Controller action return types in ASP.NET Core web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types)
+- [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
+- [REST API with ASP.NET Core](https://rafaelldi.blog/posts/rest-api-with-asp-net-core/)
+- [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
+- [How YOU can build a Mock REST API based on JSON for ASP .NET and minimal API](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/how-you-can-build-a-mock-rest-api-based-on-json-for-asp-net-and/ba-p/3196039)
+- [Developing Api’s using Http Endpoints](https://garywoodfine.com/developing-apis-using-http-endpoints/)
 ## 📹 Videos
 
 - [ASP.NET Core Series Route to Code](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Route-to-Code)
 - [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8)
-- [Updating ASP.NET Core ApiEndpoints package and Fixing Dependent Projects](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=BycGGcrYok4) 
 - [ASP.NET Community Standup Flexible HTTP APIs](https://www.youtube.com/watch?v=xoYkk5jk8d0)
 - [Let's Learn .NET - Web API](https://www.youtube.com/watch?v=BEJI2fy8MpA)
 - [ASP.NET Community Standup - Building HTTP APIs](https://www.youtube.com/watch?v=Mpf0fCO6NrU)
@@ -109,6 +114,16 @@
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
+- [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
+- [The .NET Docs Show - Controllers are Dinosaurs: The Case for API Endpoints](https://www.youtube.com/watch?v=9oroj2TmxBs)
+- [ASP.NET Community Standup - A first look at Carter on .NET 6](https://www.youtube.com/watch?v=bSJ5n7alhTs)
+- [Clean up your .NET Controllers with ApiEndpoints](https://www.youtube.com/watch?v=SDu0MA6TmuM)
+- [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
+- [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
+- [ASP.NET Community Standup - Instant APIs](https://www.youtube.com/watch?v=mrdyDJUGSms)
+- [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
+- [ASP.NET Community Standup - Controller Binding Updates in .NET 7](https://www.youtube.com/watch?v=TTpH9GjwY34)
+
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
@@ -132,7 +147,10 @@
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
-- [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+- [Biarity/Sieve](https://github.com/Biarity/Sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
+- [alirezanet/Gridify](https://github.com/alirezanet/Gridify) - Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
+- [ikyriak/IdempotentAPI](https://github.com/ikyriak/IdempotentAPI) - A .NET library that handles the HTTP write operations (POST and PATCH) that can affect only once for the given request data and idempotency-key by using an ASP.NET Core attribute (filter).
 ## 🔖 Samples
 - [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
 - [filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
@@ -140,7 +158,7 @@
 - [featherhttp/tutorial](https://github.com/featherhttp/tutorial) - Quick tutorials on how you you can build easy web applications with FeatherHttp. Learn how to build lightweight server-side web applications
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) - Sample showing MediatR with ASP.NET Core
 - [eShopOnWeb/PublicApi](https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src/PublicApi)
-
+- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
 ## Templates
 
 - [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
@@ -153,6 +171,3 @@
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
 - [ASP.NET Web API 2: Building a REST Service from Start to Finish 2nd ed. Edition](https://www.amazon.com/gp/product/1484201108/ref=as_li_qf_sp_asin_il_tl)
 - [ASP.NET Web API 2 Recipes: A Problem-Solution Approach](https://www.amazon.com/ASP-NET-Web-API-Recipes-Problem-Solution-ebook/dp/B01J9LN3DQ/ref=sr_1_15)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -2,7 +2,7 @@
 # gRPC
 
 ## 📘 Resources
-
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 - [gRPC for WCF developers e-book](https://dotnet.microsoft.com/download/e-book/grpc-for-wcf-devs/pdf)
 
 ## 📝 Articles
@@ -35,6 +35,14 @@
 - [gRPC and ASP.NET Core 5 Discover gRPCui the GUI alternative to gRPCurl](https://anthonygiretti.com/2021/01/17/grpc-asp-net-core-5-discover-grpcui-the-gui-alternative-to-grpcurl/)
 - [gRPC and ASP.NET Core 5 Add a gRPC service reference from a remote protobuf over Route-To-Code](https://anthonygiretti.com/2021/01/25/grpc-asp-net-core-5-add-a-grpc-service-reference-from-a-remote-protobuf-over-route-to-code/) 
 - [gRPC and ASP.NET Core 5 Test gRPC endpoints with gRPCurl](https://anthonygiretti.com/2021/01/13/grpc-asp-net-core-5-test-grpc-endpoints-with-grpcurl/)
+- [What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/)
+- [gRPC with ASP.NET Core](https://rafaelldi.blog/posts/grpc-with-asp-net-core/)
+- [Protobuf In C# .NET – Part 1 – Getting Started](https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-1-getting-started/)
+- [Protobuf In C# .NET – Part 2 – Serializing/Deserializing](https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-2-serializing-deserializing/)
+- [Getting Started with ASP.NET Core and gRPC](https://blog.jetbrains.com/dotnet/2021/07/19/getting-started-with-asp-net-core-and-grpc/)
+- [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
+- [gRPC Server Reflection in the .NET world](https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -47,20 +55,20 @@
 - [Embracing gRPC in .NET, by Irina Scurtu](https://www.youtube.com/watch?v=d8S9jh6Xj6Y)
 - [gRPC Client/Server Bi-Directional Streaming with C# | Visual Studio 2019](https://www.youtube.com/watch?v=6fiSsxEY4dg)
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
+- [High-performance services with gRPC: What's new in .NET 6](https://www.youtube.com/watch?v=CXH_jEa8dUw)
 
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 
 ## Libraries
 
-- [https://github.com/grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
+- [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator/src/Utils.Grpc.Mediator)
+- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+- [AnthonyGiretti/grpc-aspnetcore-validator](https://github.com/AnthonyGiretti/grpc-aspnetcore-validator) - Simple request message validator for grpc.aspnetcore
 ## 🚀 Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

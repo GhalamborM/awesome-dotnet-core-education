@@ -2,8 +2,11 @@
 
 ## Resources
 - [Minimal APIs](https://minimal-apis.github.io/)
+- [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 
 ## 📕 Articles
+- [Minimal APIs overview](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
+- [Code samples migrated to the new minimal hosting model in ASP.NET Core 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60-samples)
 - [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Minimal APIs in ASP.NET Core 6.0](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6/)
 - [Minimal APIs in ASP.NET Core 6.0 - Part2](https://dotnetthoughts.net/minimal-api-in-aspnet-core-mvc6-part2/)
@@ -17,19 +20,34 @@
 - [ASP.NET Core 6: Minimal APIs, two reasons why I can’t do without it so far](https://anthonygiretti.com/2021/08/27/asp-net-core-6-minimal-apis-two-reasons-why-i-cant-do-without-it-so-far/)
 - [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
 - [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://benfoster.io/blog/minimal-apis-custom-model-binding-aspnet-6/)
+- [Getting a complex type as a simple type from the query string in a ASP.NET Core API controller](https://blog.codingmilitia.com/2022/01/03/getting-complex-type-as-simple-type-query-string-aspnet-core-api-controller/)
 - [A .NET 6 Minimal API Todo example Playground](https://www.hanselman.com/blog/a-net-6-minimal-api-todo-example-playground)
 - [An opinionated look at Minimal API in .NET 6](https://dev.to/nikiforovall/an-opinionated-look-at-minimal-api-in-net-6-33pd)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
 - [Exploring a minimal Web API with ASP.NET Core 6](https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6)
 - [ASP.NET Core Minimal API Swagger tags](https://blog.burgyn.online/2021/10/13/asp-net-minimal-api-swagger-tags)
-
-
+- [Using the .NET JSON Source Generator with ASP.NET Core Minimal APIs](https://blog.martincostello.com/using-json-source-generators-with-aspnet-core-minimal-apis/)
+- [Working with model validation in Minimal APIs](https://dotnetthoughts.net/working-model-validation-in-minimal-api/)
+- [An opinionated look at Minimal API in .NET 6](https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html)
+- [From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=mia4ds3JhKs)
-
+- [Getting started with Minimal APIs in .Net 6](https://www.youtube.com/watch?v=Ny2q79eD6OI)
+- [Using smart modules in .NET 6 minimal API](https://www.youtube.com/watch?v=FeNe8Y-TzNc)
+- [Creating a .NET 6 minimal API from scratch](https://www.youtube.com/watch?v=U06SgUkIdEU)
+- [Getting started with NET 6 minimal AP](https://www.youtube.com/watch?v=2MYEU8ljLhg)
+- [Creating a .NET 6 minimal API from scratch (Part 2)](https://www.youtube.com/watch?v=58dc7u-YVIw)
+- [Creating a .NET 6 minimal API from scratch (Part 3)](https://www.youtube.com/watch?v=YSr8MW9b7yI)
+- [Creating a .NET 6 minimal API from scratch (Part 4)](https://www.youtube.com/watch?v=rUn7cSmCLmk)
+- [All you need to know about the NEW Asp.Net Core startup in .NET 6](https://www.youtube.com/watch?v=yJH60VFw1MI)
+- [Coding Shorts: Structuring Minimal APIs - A First Draft](https://www.youtube.com/watch?v=Q_zXFeP-QNI)
+- [Coding Shorts: Changes to Coming to Startup in .NET 6](https://www.youtube.com/watch?v=SGcpIy1Si54)
+- [Secure minimal APIs with .NET 6 and Microsoft Identity](https://www.youtube.com/watch?v=ucj8hajOorg)
+- [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
+- [ASP.NET Community Standup - Minimal API Deep Dive](https://www.youtube.com/watch?v=NtFM-sK6xAo)
+- [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
 ## 🚀 Samples
-- [Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 - [halter73/MinimalWeather](https://github.com/halter73/MinimalWeather)
 - [425show/MinimalWeather](https://github.com/425show/MinimalWeather)
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6#minimal-hosting-default-configuration)
@@ -50,7 +68,21 @@
 - [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi)
 - [DShergilashvili/FutureService](https://github.com/DShergilashvili/FutureService) 
 - [thangchung/minimal-apis-csharp10](https://github.com/thangchung/minimal-apis-csharp10)
+- [martincostello/MinimalApisWithJsonSourceGenerator](https://github.com/martincostello/MinimalApisWithJsonSourceGenerator)
+- [thangchung/todo-dotnet6](https://github.com/thangchung/todo-dotnet6)
+- [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
+- [oskardudycz/EventSourcing.NetCore/Warehouse.MinimalAPI](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_minimal_apis/Sample/Warehouse.MinimalAPI)
+- [maartenba-demo/grocerylistapi](https://github.com/maartenba-demo/grocerylistapi)
+- [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture)
+- [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example)
+- [rh8512/csharp-minimalapi](https://github.com/rh8512/csharp-minimalapi)
+- [DamianEdwards/MinimalApis.Extensions/samples](https://github.com/DamianEdwards/MinimalApis.Extensions/tree/main/samples)
+- [Elfocrash/clean-minimal-api](https://github.com/Elfocrash/clean-minimal-api)
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
 - [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.
+- [danpdc/SmartModules](https://github.com/danpdc/SmartModules)
+- [marcominerva/MinimalHelpers.Registration](https://github.com/marcominerva/MinimalHelpers.Registration) - A lightweight library to automatically register all the Route Endpoints of a Minimal API project.
+- [csharpfritz/InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - A library that generates Minimal API endpoints for an Entity Framework context.
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern

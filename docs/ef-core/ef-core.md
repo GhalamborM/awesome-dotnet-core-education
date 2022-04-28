@@ -35,9 +35,10 @@
 - [Get Better at EntityFramework Core — Best Practices](https://medium.com/analytics-vidhya/entityframework-core-dont-get-burnt-in-production-335ddfcfdfda)
 - [Value Conversions](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions?tabs=data-annotations)
 - [Entity Framework Core: Enums](https://medium.com/agilix/entity-framework-core-enums-ee0f8f4063f2)
+- [Entity Framework Enum Code First Lookup Table](https://codewithshadman.com/entity-framework-enum-code-first/)
 ## 📹 Videos
 
-- [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) - Microsoft
+- [Typed Exceptions for Entity Framework Core](https://www.youtube.com/watch?v=aUl5QfswNU4) 
 - [Entity Framework Community Standup - Performance Tuning an EF Core App](https://www.youtube.com/watch?v=VgNFFEqwZPU)
 - [Entity Framework Community Standup - Julie Lerman and EF Core Ask Me Anything (AMA)](https://www.youtube.com/watch?v=oZVsZrFKp48)
 - [Entity Framework Community Standup - Open Source Contributions: How to Add a Feature to EF Core](https://www.youtube.com/watch?v=9OMxy1wal1s)
@@ -48,7 +49,8 @@
 - [Entity Framework Core In-Depth Part 3](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-3)
 - [Entity Framework Core In-Depth Part 4](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-In-Depth-Part-4)
 - [Entity Framework Community Standup - Visualizing database query plans](https://www.youtube.com/watch?v=Zhy5antRDJk)
-
+- [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
+- [.NET Data Community Standup - Database-first with T4 Templates in EF7: Early look](https://www.youtube.com/watch?v=x2nh1vZBsHE)
 ## 📦 Libraries
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) 

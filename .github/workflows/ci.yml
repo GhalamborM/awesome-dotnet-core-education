@@ -3,18 +3,28 @@ on:
   push:
     branches:
       - main
+
 jobs:
+
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+    
   build:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: Checkout main
         uses: actions/checkout@v2
+        
       - name: Make executeable
-        run: chmod +x ./docs/static/moveFiles.sh
+        run: chmod +x ./moveFiles.sh
       - name: move md files
-        run:  ./docs/static/moveFiles.sh
+        run:  ./moveFiles.sh
+
       - name: Deploy MkDocs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.24
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}

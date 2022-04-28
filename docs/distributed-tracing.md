@@ -52,6 +52,11 @@
 - [OpenTelemetry in .NET](https://lightstep.com/blog/opentelemetry-net-all-you-need-to-know/)
 - [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
 - [Monitoring a .NET application using OpenTelemetry](https://www.meziantou.net/monitoring-a-dotnet-application-using-opentelemetry.htm)
+- [OpenTelemetry in .NET](https://rafaelldi.blog/posts/open-telemetry-in-dotnet/)
+- [Distributed tracing for messaging application](https://rafaelldi.blog/posts/distributed-tracing-for-messaging-application/)
+- [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
+- [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
+- [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -64,11 +69,14 @@
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 - [Tracing with Jaeger and Kubernetes](https://www.youtube.com/watch?v=FikF0DtxZno)
 - [Exploring distributed tracing with ASP NET Core 6](https://www.youtube.com/watch?v=l1_i8p2hVlE)
+- [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
+- [OpenTelemetry will save your day and night - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=pz4bNmlss3w)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
 - [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
 - [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.
+- [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
@@ -78,3 +86,4 @@
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
 - [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
+- [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.

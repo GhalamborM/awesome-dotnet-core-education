@@ -71,7 +71,15 @@
 - [MongoDB integration testing in .Net Core – Vetting Mongo2go vs MongoDb Docker Instance](http://www.jonathanawotwi.com/2021/06/mongodb-integration-testing-in-net-core-mongo2go-vs-mongodb-docker-instance/)
 - [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
 - [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
-
+- [ASP.NET Core Integration Tests With TestServer - How Did I Not Know About This?](https://scotthannen.org/blog/2021/11/18/testserver-how-did-i-not-know.html)
+- [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
+- [Write integration tests on MongoDB with .NET Core and Docker](https://www.davidguida.net/write-integration-tests-on-mongodb-with-net-core-and-docker/)
+- [Handling Integration Tests in a CI pipeline – part 2: an example](https://www.davidguida.net/handling-integration-tests-in-a-ci-pipeline-part-2-an-example/)
+- [Integration Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#313-integration-tests)
+- [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+- [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
+- [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
+- [Testing ASP.NET Core 6 Apps](https://khalidabuhakmeh.com/testing-aspnet-core-6-apps)
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)
@@ -105,9 +113,11 @@
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
+- [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
+- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
-- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [jbogard/ContosoUniversityDotNetCore-Pages/ContosoUniversity.IntegrationTests](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages/tree/master/ContosoUniversity.IntegrationTests)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
 - [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
@@ -115,13 +125,20 @@
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture)
 - [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit)
 - [timdeschryver/HowToTestYourCsharpWebApi](https://github.com/timdeschryver/HowToTestYourCsharpWebApi)
-- [code4it-dev/APIIntegrationTestsExample/](https://github.com/code4it-dev/APIIntegrationTestsExample/)
+- [code4it-dev/APIIntegrationTestsExample](https://github.com/code4it-dev/APIIntegrationTestsExample/)
 - [markvincze/AspNetCoreIntegrationTestConfig](https://github.com/markvincze/AspNetCoreIntegrationTestConfig)
 - [raw-coding-youtube/testing-101](https://github.com/raw-coding-youtube/testing-101)
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [joaopgrassi/dockercompose-azdevops](https://github.com/joaopgrassi/dockercompose-azdevops)
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
+- [oskardudycz/EventSourcing.NetCore/ECommerce/Orders.Api.Tests](https://github.com/oskardudycz/EventSourcing.NetCore/blob/main/Sample/ECommerce/Orders/Orders.Api.Tests/Orders/InitializingOrder/InitializeOrderTests.cs)
+- [oskardudycz/EventSourcing.NetCore/Shipments.Api.Tests](https://github.com/oskardudycz/EventSourcing.NetCore/blob/main/Sample/ECommerce/Shipments/Shipments.Api.Tests/Packages/SendPackageTests.cs)
+- [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
+- [mizrael/CICDIntegrationTests](https://github.com/mizrael/CICDIntegrationTests)
+- [mizrael/MongoDbIntegrationSample](https://github.com/mizrael/MongoDbIntegrationSample)
+- [pdevito3/postgres-docker-integration-tests](https://github.com/pdevito3/postgres-docker-integration-tests)
+- [devmentors/Inflow-micro/Inflow.Services.Wallets.Tests.Integration](https://github.com/devmentors/Inflow-micro/tree/master/src/Wallets/Inflow.Services.Wallets.Tests.Integration)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
+- [linkdotnet/Blog](https://github.com/linkdotnet/Blog)

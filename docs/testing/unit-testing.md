@@ -1,6 +1,9 @@
 
 # Unit Testing
 
+## Resources
+- [Unit Testing 101: From Zero to Hero](https://canro91.github.io/UnitTesting)
+
 ## 📝 Articles
 
 - [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) 
@@ -42,6 +45,20 @@
 - [Unit Testing 101: Write your first unit test in C# with MSTest](https://canro91.github.io/2021/03/15/UnitTesting101/)
 - [5 tips for better stubs and mocks in C#](https://canro91.github.io/2021/06/07/TipsForBetterStubsAndMocks/)
 - [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
+- [Testing code that uses EF Core](https://docs.microsoft.com/en-us/ef/core/testing/)
+- [Testing with a mocking framework](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking)
+- [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/en/2020/11/28/unit-tests-in-entity-framework-core-5/)
+- [New features for testing your Entity Framework Core 5 code](https://www.thereformedprogrammer.net/new-features-for-unit-testing-your-entity-framework-core-5-code/)
+- [Unit testing MongoDB in C# part 1: the repository](https://www.davidguida.net/unit-testing-mongodb-in-c-part-1-the-repository/)
+- [Unit testing MongoDB in C# part 2: the database context](https://www.davidguida.net/unit-testing-mongodb-in-c-part-2-the-database-context/)
+- [Unit testing MongoDB in C# part 3: the database factories](https://www.davidguida.net/unit-testing-mongodb-in-c-part-3-the-database-factories)
+- [Unit testing MongoDB in C# part 4: the tests, finally](https://www.davidguida.net/unit-testing-mongodb-in-c-part-4-the-tests-finally/)
+- [Unit Testing in DDD](https://github.com/kgrzybek/modular-monolith-with-ddd#310-unit-tests)
+- [Accessing Configuration in .NET Core Test Projects](https://weblog.west-wind.com/posts/2018/Feb/18/Accessing-Configuration-in-NET-Core-Test-Projects)
+- [Read appsettings JSON in .NET Core Test Project](https://www.thecodebuzz.com/read-appsettings-json-in-net-core-test-project-xunit-mstest/)
+- [Improve Tests with the Builder Pattern for Test Data](https://ardalis.com/improve-tests-with-the-builder-pattern-for-test-data/)
+- [Never use the same value for two IDs (or other values) in your tests](https://ardalis.com/never-use-the-same-value-for-two-ids-or-other-values-in-your-tests/)
+- [How to create test data with the Builder pattern](https://canro91.github.io/2021/04/26/CreateTestValuesWithBuilders/)
 ### 📺 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
@@ -52,6 +69,10 @@
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
+- [Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor](https://www.youtube.com/watch?v=ddrR440JtiA)
+- [.NET Data Community Standup - Testing EF Core Apps](https://www.youtube.com/watch?v=KO2aFuLqGkc)
+- [Learn Unit Test with .Net 6 with xUnit and MOQ](https://www.youtube.com/watch?v=AW7ZcMOtwC8)
+
 ## 🚀 Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
@@ -62,6 +83,7 @@
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
 - [jasontaylordev/CleanArchitectureScMarch2020](https://github.com/jasontaylordev/CleanArchitectureScMarch2020)
 - [mmalvik/NET6-Testing](https://github.com/mmalvik/NET6-Testing)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
+- [linkdotnet/Blog](https://github.com/linkdotnet/Blog)
